@@ -1,0 +1,377 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  background-color: #f8eded;
+  color: #40514E;
+}
+
+.asm-profile {
+  border-radius: 50%;
+  width: 200px;
+
+
+}
+
+hr {
+  margin: 50px auto;
+  text-align: center;
+  border-style: none;
+  border-top: 6px dotted;
+  width:5%;
+  color: grey;
+}
+
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.cloud-bottom {
+
+  position: absolute;
+  left:10%;
+  bottom: 300px;
+}
+
+.top-container {
+  background-color:  #34656d;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.62rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+
+}
+.subtitle {
+  font-weight: normal;
+  font-size: 1.2em;
+  text-align: center;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding: 20px;
+  width: 50%;
+}
+p {
+  font-weight: lighter;
+  font-size: 0.6em;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  color: #40514E;
+
+}
+
+
+h2 {
+  font-weight: normal;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+
+
+}
+h3 {
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin: 25px auto 0 0;
+
+}
+h4 {
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+.last-container{
+  padding: 0;
+}
+.contactme {
+  width: 40%;
+  margin: 40px auto 50px;
+
+}
+
+.introduction {
+  font-size: 0.8em;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+.second-container {
+
+  background-color: #E4F9F5;
+
+}
+
+.project-title {
+  text-align: center;
+  font-size: 1.2em;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 200px;
+  margin-top: 50px;
+}
+
+
+
+
+.building-dharahara{
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  margin: auto 40px auto 0;
+
+}
+.dharahara {
+
+  margin: 80px 0 100px 50px;
+  padding: 10px;
+  text-align: left;
+  width: 80%;
+
+
+}
+.burj-khalifa {
+  margin: 100px 0 100px 50px;
+  padding: 10px;
+  text-align: right;
+  width: 80%
+}
+
+.burjkhalifa-building {
+  text-align: right;
+  border-radius: 50%;
+  width: 30%;
+  float: right;
+  margin: auto 0 auto 40px;
+}
+.building-shanghai-pic {
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  margin: auto 40px auto 0;
+}
+.shanghai-tower {
+  margin: 50px;
+  margin: 80px 0 100px 50px;
+  padding: 10px;
+  text-align: left;
+  width: 80%;
+}
+
+.projects {
+  line-height: 2;
+  text-align: left;
+  width: 65%;
+  margin:auto;
+  margin-bottom: 20px;
+}
+.foot {
+  background-color: #66BFBF;
+  padding: 30px 0 30px;
+}
+.copyright {
+  margin: 10px;
+  text-align: center;
+}
+
+.footer {
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
+}
+.myeducation {
+  text-align: center;
+  margin-right: auto;
+}
+.Education {
+  text-align: center;
+  max-width: 70%;
+  width: 100%;
+  text-size: 2rem;
+  margin: 100px 0 100px 0;
+display: inline-block;
+padding: 10px;
+
+
+}
+.education-table {
+  width:100%;
+  text-align: center;
+  margin: auto;
+}
+
+table {
+  margin-left: 15%;
+  text-align: left;
+}
+.jobtitle {
+  font-size: 2rem;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #119993);
+  background-image: -moz-linear-gradient(top, #11cdd4, #119993);
+  background-image: -ms-linear-gradient(top, #11cdd4, #119993);
+  background-image: -o-linear-gradient(top, #11cdd4, #119993);
+  background-image: linear-gradient(to bottom, #11cdd4, #119993);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+
+
+
+
+div.table-title {
+   display: block;
+  margin: auto;
+  max-width: 100%;
+    padding:5px;
+  width: 100%;
+}
+
+.table-title h3 {
+   color: #fafafa;
+   font-size: 30px;
+   font-weight: 400;
+   font-style:normal;
+   font-family: "Roboto", helvetica, arial, sans-serif;
+   text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+   text-transform:uppercase;
+}
+
+
+/*** Table Styles **/
+
+.table-fill {
+  background: white;
+  border-radius:3px;
+  border-collapse: collapse;
+  height: 320px;
+  margin: auto;
+  max-width: 70%;
+  padding:5px;
+  width: 100%;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  animation: float 5s infinite;
+}
+
+th {
+  color:#D5DDE5;;
+  background:#1b1e24;
+  border-bottom:4px solid #9ea7af;
+  border-right: 1px solid #343a45;
+  font-size:23px;
+  font-weight: 100;
+  padding:24px;
+  text-align:left;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  vertical-align:middle;
+}
+
+th:first-child {
+  border-top-left-radius:3px;
+}
+
+th:last-child {
+  border-top-right-radius:3px;
+  border-right:none;
+}
+
+tr {
+  border-top: 1px solid #C1C3D1;
+  border-bottom-: 1px solid #C1C3D1;
+  color:#666B85;
+  font-size:16px;
+  font-weight:normal;
+  text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+}
+
+tr:hover td {
+  background:#4E5066;
+  color:#FFFFFF;
+  border-top: 1px solid #22262e;
+}
+
+tr:first-child {
+  border-top:none;
+}
+
+tr:last-child {
+  border-bottom:none;
+}
+
+tr:nth-child(odd) td {
+  background:#EBEBEB;
+}
+
+tr:nth-child(odd):hover td {
+  background:#4E5066;
+}
+
+tr:last-child td:first-child {
+  border-bottom-left-radius:3px;
+}
+
+tr:last-child td:last-child {
+  border-bottom-right-radius:3px;
+}
+
+td {
+  background:#FFFFFF;
+  padding:20px;
+  text-align:left;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:18px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+  border-right: 1px solid #C1C3D1;
+}
+
+td:last-child {
+  border-right: 0px;
+}
+
+th.text-left {
+  text-align: left;
+}
+
+th.text-center {
+  text-align: center;
+}
+
+th.text-right {
+  text-align: right;
+}
+
+td.text-left {
+  text-align: left;
+}
